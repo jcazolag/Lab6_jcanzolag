@@ -5,6 +5,7 @@
 ## Estudiante(s):
 
 - Juan Camilo Anzola Gomez, jcanzolag@eafit.edu.co
+- Andres Danilo Patiño Velez, apatin14@eafit.edu.co
 
 ## Profesor:
 
